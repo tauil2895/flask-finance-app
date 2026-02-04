@@ -27,7 +27,7 @@ flask run
 [image]([https://user-images.githubusercontent.com/...](https://github.com/tauil2895/flask-finance-app/blob/main/screenshots/login.png))
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+[Dashboard](screenshots/dashboard.png)
 
 ### Buy Stock
 ![Buy Stock](screenshots/buy-stock.png)
