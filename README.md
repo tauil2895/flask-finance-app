@@ -1,1 +1,22 @@
-# flask-finance-app
+# Flask Finance App
+
+Web application built with Python and Flask that allows users to manage a virtual stock portfolio.
+
+## Features
+- User registration and login
+- Buy and sell stocks
+- Real-time price lookup
+- Transaction history
+- Secure password hashing
+
+## Tech Stack
+- Python
+- Flask
+- SQLite
+- HTML / CSS
+- Bootstrap
+
+## Installation
+```bash
+pip install -r requirements.txt
+flask run
