@@ -20,3 +20,14 @@ Web application built with Python and Flask that allows users to manage a virtua
 ```bash
 pip install -r requirements.txt
 flask run
+
+## Screenshots
+
+### Login
+![Login Page](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Buy Stock
+![Buy Stock](screenshots/buy-stock.png)
