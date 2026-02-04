@@ -24,7 +24,7 @@ flask run
 ## Screenshots
 
 ### Login
-![Login Page](screenshots/login.png)
+![image]([https://user-images.githubusercontent.com/...](https://github.com/tauil2895/flask-finance-app/blob/main/screenshots/login.png))
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
