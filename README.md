@@ -17,7 +17,7 @@ Web application built with Python and Flask that allows users to manage a virtua
 - Bootstrap
 
 ## Installation
-```bash
+bash
 pip install -r requirements.txt
 flask run
 
