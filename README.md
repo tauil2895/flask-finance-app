@@ -12,13 +12,21 @@ Web application built with Python and Flask that allows users to manage a virtua
 ## 📁 Project Structure
 
 flask-finance-app/
+
 ├── app.py
+
 ├── helpers.py
+
 ├── requirements.txt
+
 ├── static/
+
 ├── templates/
+
 ├── README.md
+
 ├── .gitignore
+
 └── finance.db
 
 ## Tech Stack
